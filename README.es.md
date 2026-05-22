@@ -1,14 +1,19 @@
-<h1 align="center">⚙️ Flack's Cut & Connect — API de Tarjetas IoT</h1>
+# Flack's Cut & Connect — API de Tarjetas IoT
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Spring_Boot-3-6DB33F?logo=springboot&logoColor=white" alt="Spring Boot">
+  <img src="https://img.shields.io/badge/Java-21-f89820?logo=openjdk&logoColor=white" alt="Java">
+  <img src="https://img.shields.io/badge/Licencia-GPL_v3-0298c3?logo=gnu&logoColor=white" alt="GPL v3">
+</p>
 
 <p align="center">
   <em>API REST para gestión de tarjetas IoT, comunicación con dispositivos y tickets de cola</em>
 </p>
 
 <p align="center">
-  <a href="https://img.shields.io/badge/Spring_Boot-3-6DB33F?logo=springboot&logoColor=white"><img src="https://img.shields.io/badge/Spring_Boot-3-6DB33F?logo=springboot&logoColor=white" alt="Spring Boot"></a>
-  <a href="https://img.shields.io/badge/Java-21-f89820?logo=openjdk&logoColor=white"><img src="https://img.shields.io/badge/Java-21-f89820?logo=openjdk&logoColor=white" alt="Java"></a>
-  <a href="https://img.shields.io/badge/Licencia-GPL_v3-0298c3?logo=gnu&logoColor=white"><img src="https://img.shields.io/badge/Licencia-GPL_v3-0298c3?logo=gnu&logoColor=white" alt="GPL v3"></a>
-  <a href="https://img.shields.io/badge/Estado-Activo-2ea44f"><img src="https://img.shields.io/badge/Estado-Activo-2ea44f" alt="Activo"></a>
+  <a href="https://github.com/flacks-cc/api-iot">Repositorio</a>
+  ·
+  <a href="https://github.com/flacks-cc/api-iot/issues">Reportar error</a>
 </p>
 
 <p align="center">
@@ -17,7 +22,18 @@
 
 ---
 
-## 🚀 Inicio rápido
+## Acerca de Flack's Cut & Connect
+
+API REST construida con Spring Boot 3 para gestionar tarjetas IoT, comunicación con dispositivos y tickets de cola. Maneja registro de tarjetas NFC, asignación de turnos e interacciones con dispositivos.
+
+## Funcionalidades
+
+- Gestión de tarjetas IoT
+- Comunicación con dispositivos
+- Tickets de cola
+- Registro de tarjetas NFC
+
+## Inicio rápido
 
 ### Requisitos previos
 
@@ -32,43 +48,35 @@ cd api-iot
 ./mvnw spring-boot:run
 ```
 
-## 🧩 Tecnologías
-
-| Capa | Tecnología |
-|------|-----------|
-| Framework | Spring Boot 3 |
-| Lenguaje | Java 21 |
-| Build | Maven |
-| Autenticación | JWT |
-
-## 📂 Estructura del proyecto
+## Arquitectura
 
 ```
-api-iot/
-├── src/
-│   └── main/
-│       ├── java/
-│       └── resources/
-├── pom.xml
-└── README.md
+(Pendiente)
 ```
 
-## 🤝 Contribuciones
+## Contribuciones
 
-Lee [CONTRIBUTING.md](CONTRIBUTING.md) para más detalles.
+Lee [CONTRIBUTING.md](CONTRIBUTING.md) para conocer las convenciones de ramas, commits y PRs.
 
-## 📄 Licencia
+## Licencia
 
-GPL v3 — ver [LICENSE](LICENSE).
+Este proyecto está bajo la licencia GPL v3 — ver [LICENSE](LICENSE) para más detalles.
 
-## 🙏 Agradecimientos
+## Agradecimientos
 
 **Authors:**
 
-- [@chrisssp](https://github.com/chrisssp) — Desarrollador
+- Serrano Puertos Jorge Christian
+- Chávez Moreno José Eduardo
+- Fernández López Kevin Noé
+- Florentino Altamirano Misrael
+- Ortiz Pérez Alejandro
+- Moises Torres Bernabé
 
----
+**Advisors:**
 
-<p align="center">
-  <sub>Hecho con ❤️ por el equipo flacks-cc · 2026</sub>
-</p>
+- (TBD)
+
+**Apoyo académico:**
+
+- (TBD)
